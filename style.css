@@ -1,0 +1,209 @@
+.a_1{
+    color: black;
+    width: 15px;
+height: 13.75px;
+top: 3.75px;
+left: 2.5px;
+gap: 0px;
+opacity: 0px;
+justify-content: end;
+align-content: end;
+
+}
+.body{
+    background: blue;
+}
+.a_2{
+display: flex;
+background:#2B3844;
+justify-content: space-between;
+align-items: center;
+padding: 23px 80px;
+}
+.box-container{
+    background: #202C36;
+color: #fff;
+width: 1440px;
+height: 1024px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+h1{
+    color: white;
+    font-family: Nunito Sans;
+font-size: 24px;
+font-weight: 800;
+line-height: 32.74px;
+text-align: left;
+
+}
+.box{
+    width: 1440px;
+
+gap: 0px;
+opacity: 0px;
+background: #202C36;
+display: flex;
+justify-content: space-around;
+font-size: 14px;
+align-items: center ;
+}
+
+.a-1{
+    display: flex;
+    align-items: center;
+}
+.a-2{
+    margin-left: 8px;
+}
+.a-3{
+    display: flex;
+    width: 480px;
+height: 56px;
+margin: 48px 80px;
+background: #2B3844;
+align-items: center;
+justify-content: center;
+}
+input{
+ border: none;
+ background: none;
+ outline: none;
+ color: #fff;
+}
+input::placeholder{
+    color: #fff;
+}
+.a-5{
+  display: flex;
+    background: #2B3844;
+    width: 200px;
+    height: 56px;
+ color: #fff;
+ align-items: center;
+    justify-content: center;
+   margin-top: 48px;
+  padding-left: 1020px;
+
+}
+.a-5>input{
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.a-6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.filter{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding-right: 80px;
+}
+.select{
+    background: #2B3844;
+    width: 200px;
+    height: 56px;
+    gap: 0px;
+    opacity: 0px;
+    justify-content: center;
+align-items: center;
+display: flex;
+
+}
+.select>select{
+  border: none;
+  outline: none;
+  background:none;
+  color: #fff;
+}
+.germany>img{
+   width: 264px;
+    display: flex;
+  
+}
+.germany{
+    background: #2B3844;
+height: 336px;
+color: #fff;
+width: 264px;
+}
+.paragrapht{
+    padding-left: 24px;
+   
+}
+.color{
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    text-align: left;
+color:darkgrey
+    
+}
+h4{
+    color: #fff;
+}
+.usa{
+    width: 264px;
+height: 336px;
+gap: 0px;
+opacity: 0px;
+background: #2B3844;
+}
+.usa>img{
+    width: 264px;
+
+}
+
+.brazil{
+    width: 264px;
+    height: 336px;
+    gap: 0px;
+    opacity: 0px;
+    background: #2B3844;
+}
+.iceland{
+width: 264px;
+height: 336px;
+gap: 0px;
+opacity: 0px;
+background: #2B3844;
+
+}
+.country-flag-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 75px;
+    font-size: 14px;
+}
+.afghanistan{
+    width: 264px;
+    height: 336px;
+    gap: 0px;
+    opacity: 0px;
+    background: #2B3844;
+}
+.islands{
+    width: 264px;
+    height: 336px;
+    background: #2B3844;
+}
+.albania{
+    width: 264px;
+    height: 336px;
+    background: #2B3844;
+}
+.algeria{
+    width: 264px;
+    height: 336px;
+    background: #2B3844;
+    
+}
